@@ -8,3 +8,7 @@
         "theme-{{ site.theme_color | default: "light" }}.scss"
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
+
+.center {
+	text-align: center;
+}
