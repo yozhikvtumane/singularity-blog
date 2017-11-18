@@ -5,7 +5,7 @@ date:   2017-03-27 20:05:28 +0100
 categories: Tech
 ---
 ![Musk]({{ "/assets/img/Musk.jpg" | absolute_url }})
-<figcaption>Photo by Justin Sullivan / Getty Images</figcation>
+<figcaption>Photo by Justin Sullivan / Getty Images</figcaption>
 
 SpaceX and Tesla CEO Elon Musk is backing a brain-computer interface venture called Neuralink, according to The Wall Street Journal. The company, which is still in the earliest stages of existence and has no public presence whatsoever, is centered on creating devices that can be implanted in the human brain, with the eventual purpose of helping human beings merge with software and keep pace with advancements in artificial intelligence. These enhancements could improve memory or allow for more direct interfacing with computing devices.
 
