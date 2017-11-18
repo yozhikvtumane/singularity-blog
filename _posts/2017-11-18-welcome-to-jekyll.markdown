@@ -1,25 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Elon Musk launches Neuralink, a venture to merge the human brain with AI"
 date:   2017-11-18 20:05:28 +0100
-categories: jekyll update
+categories: Tech
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+SpaceX and Tesla CEO Elon Musk is backing a brain-computer interface venture called Neuralink, according to The Wall Street Journal. The company, which is still in the earliest stages of existence and has no public presence whatsoever, is centered on creating devices that can be implanted in the human brain, with the eventual purpose of helping human beings merge with software and keep pace with advancements in artificial intelligence. These enhancements could improve memory or allow for more direct interfacing with computing devices.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Musk has hinted at the existence of Neuralink a few times over the last six months or so. More recently, Musk told a crowd in Dubai, "Over time I think we will probably see a closer merger of biological intelligence and digital intelligence." He added that "it's mostly about the bandwidth, the speed of the connection between your brain and the digital version of yourself, particularly output." On Twitter, Musk has responded to inquiring fans about his progress on a so-called "neural lace," which is sci-fi shorthand for a brain-computer interface humans could use to improve themselves.
