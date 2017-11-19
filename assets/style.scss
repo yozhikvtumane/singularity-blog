@@ -9,15 +9,20 @@
         // "theme-{{ site.theme_fonts | default: "system" }}.scss"
 ;
 
-.center {
+/*.center {
 	display: inline-block;
 	margin: 0 auto;
 	//text-align: -webkit-center;
 	//text-align: center;
 }
+*/
+
 
 figcaption {
     padding-bottom: 20px;
     margin-top: -30px;
     color: #3336;
+}
+twitter-tweet {
+	margin: 0 auto;
 }
