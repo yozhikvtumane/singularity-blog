@@ -3,6 +3,7 @@ layout: post
 title:  "Elon Musk launches Neuralink"
 date:   2017-03-27 20:05:28 +0100
 categories: Tech
+images: true
 ---
 {% include image.html url="/assets/img/Musk.jpg" description="Photo by Justin Sullivan / Getty Images" %}
 

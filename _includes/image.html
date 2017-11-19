@@ -1,6 +1,6 @@
-{% if page.layout == "post" %}
+{% if page.images %}
   <p>
-	<img src="{{ include.url | absolute_url }}" alt="{{ include.description }}">
-  </p>
- <figcaption>{{ include.description }}</figcaption>
+<img src="{{ include.url | absolute_url }}" alt="{{ include.description }}">
+</p>
+<figcaption>{{ include.description }}</figcaption>
 {% endif %}
