@@ -10,8 +10,10 @@
 ;
 
 .center {
-	text-align: -webkit-center;
-	text-align: center;
+	display: inline-block;
+	margin: 0 auto;
+	//text-align: -webkit-center;
+	//text-align: center;
 }
 
 figcaption {
