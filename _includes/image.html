@@ -1,4 +1,6 @@
-<p>
+{% if layout == "post" %}
+  <p>
 	<img src="{{ include.url | absolute_url }}" alt="{{ include.description }}">
-</p>
-<figcaption>{{ include.description }}</figcaption>
+  </p>
+ <figcaption>{{ include.description }}</figcaption>
+{% endif %}
