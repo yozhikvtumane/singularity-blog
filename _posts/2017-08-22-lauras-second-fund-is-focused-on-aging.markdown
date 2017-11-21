@@ -5,7 +5,7 @@ date:   2017-08-22 10:00:00 +0100
 categories: Interview
 images: true
 ---
-{% include image.html imgUrl="/assets/img/Laura.jpg" imgDescription="Laura Deming / techcrunch" %}
+{% include image.html imgUrl="/assets/img/img_0522[1].jpg" imgDescription="Laura Deming / techcrunch" %}
 
 Laura Deming is not your typical venture capitalist. Then again, she isn’t typical in many ways.
 
