@@ -1,5 +1,7 @@
 {% if page.images %}
-  <p>
-    <img src="{{ include.imgUrl | absolute_url }}" alt="{{ include.imgDescription }}" title="{{ include.imgDescription }}">
-  </p>
+  <div class="center">
+    <p>
+      <img src="{{ include.imgUrl | absolute_url }}" alt="{{ include.imgDescription }}" title="{{ include.imgDescription }}">
+    </p>
+  </div>
 {% endif %}
