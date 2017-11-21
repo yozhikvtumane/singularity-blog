@@ -1,6 +1,5 @@
 {% if page.images %}
   <p>
-<img src="{{ include.imgUrl | absolute_url }}">
-<figcaption>{{ include.imgDescription }}</figcaption>
-</p>
+    <img src="{{ include.imgUrl | absolute_url }}" alt="{{ include.imgDescription }}">
+  </p>
 {% endif %}
