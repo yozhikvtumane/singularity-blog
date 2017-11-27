@@ -5,7 +5,7 @@ date:   2017-11-22 10:10:10 +0100
 categories: Space
 images: true
 ---
-{% include image.html imgUrl="/assets/img/JSWT.jpg" imgDescription="NASA / nasa.gov" %}
+{% include image.html imgUrl="/assets/img/JWST.jpg" imgDescription="NASA / nasa.gov" %}
 
 The vault-like, 40-foot diameter, 40-ton door of Chamber A at NASA's Johnson Space Center in Houston was unsealed on November 18, signaling the end of cryogenic testing for NASA's James Webb Space Telescope.
 
