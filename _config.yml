@@ -19,8 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know or wanted to know about tech and space 
 baseurl: "/singularity-blog.tk" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -28,6 +26,7 @@ markdown: kramdown
 theme: jekyll-athena 
 remote_theme: "broccolini/athena"
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 plugins:
   - jekyll-feed
