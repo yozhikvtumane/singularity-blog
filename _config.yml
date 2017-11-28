@@ -26,7 +26,6 @@ markdown: kramdown
 theme: jekyll-athena 
 remote_theme: "broccolini/athena"
 paginate: 5
-paginate_path: "/page:num/"
 
 plugins:
   - jekyll-feed
