@@ -2,7 +2,7 @@
 layout: post
 title: Tesla Just Built the World's Biggest Battery in Record Time"
 date:   2017-11-23 10:10:10 +0100
-categories: Space
+categories: Tech
 ---
 Elon Musk has won. The Tesla CEO made a bet that he could install the world’s biggest battery in South Australia within 100 days, and the whole installation would be free if the company failed. On Thursday, it was revealed that the project has been completed with 46 days to spare.
 
