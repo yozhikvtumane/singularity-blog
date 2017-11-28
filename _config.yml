@@ -31,7 +31,7 @@ paginate_path: "/singularity-blog.tk/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-#  - jekyll-paginate
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
