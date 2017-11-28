@@ -27,6 +27,7 @@ markdown: kramdown
 #theme: minima
 theme: jekyll-athena 
 remote_theme: "broccolini/athena"
+paginate: 5
 
 plugins:
   - jekyll-feed
