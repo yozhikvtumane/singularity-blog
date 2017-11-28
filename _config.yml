@@ -26,7 +26,7 @@ markdown: kramdown
 theme: jekyll-athena 
 remote_theme: "broccolini/athena"
 paginate: 5
-paginate_path: "/singularity-blog.tk/page:num/"
+#paginate_path: "/singularity-blog.tk/page:num/"
 
 plugins:
   - jekyll-feed
