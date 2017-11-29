@@ -17,7 +17,7 @@ title: Singularity
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Everything you need to know or wanted to know about tech and space 
-baseurl: "/singularity-blog.tk" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
